@@ -1,4 +1,15 @@
-html, body{
-background: #f2fff2;
-font-weight: bold;
+html,body{
+    background: #ce3737;
+    font-family: Arial;
+
 }
+li{
+    list-style: none;
+    float: left;
+    padding-left: 2em;
+}
+ li:hover{
+     color: blue;
+     cursor: pointer;
+     
+ }
